@@ -1,0 +1,35 @@
+# version sum = 16
+# 8A004A801A8002F478
+
+# version sum = 12
+# 620080001611562C8802118E34
+
+# version sum = 23
+# C0015000016115A2E0802F182340
+
+# version sum = 31
+# A0016C880162017C3686B18A3D4780
+
+# result = 3
+# C200B40A82
+
+# result = 54
+04005AC33890
+
+# result = 7
+# 880086C3E88112
+
+# result = 9
+# CE00C43D881120
+
+# result = 1
+# D8005AC2A8F0
+
+# result = 0
+# F600BC2D8F
+
+# result = 0
+# 9C005AC2F8F0
+
+# result = 1
+# 9C0141080250320F1802104A08
